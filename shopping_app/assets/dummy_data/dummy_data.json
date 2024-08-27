@@ -1,0 +1,120 @@
+{
+  "statusCode": 200,
+  "message": "",
+  "data": [
+    {
+"id": "66be460f71fccd1506882d24",
+"title": "Chicken Burger",
+"imageUrl": "https://res.cloudinary.com/g5-mobile-track/image/upload/v1723747446/assessment/xhvgqvpt7pghwaeqnids.jpg",
+"rating": 4.9,
+"price": 11,
+"discount": 6,
+"description": "A delicious chicken burger served on a toasted bun with fresh lettuce, tomato slices, and mayonnaise. Juicy grilled chicken patty seasoned to perfection for a mouthwatering taste experience.",
+"options": [
+  {
+    "id": "66be474571fccd1506882d26",
+    "name": "Add Cheese",
+    "price": 0.5
+  },
+  {
+    "id": "66be479671fccd1506882d28",
+    "name": "Add Bacon",
+    "price": 1
+  },
+  {
+    "id": "66be47c671fccd1506882d29",
+    "name": "Add Meat",
+    "price": 0
+  }
+]
+},
+{
+"id": "66be4d7071fccd1506882d34",
+"title": "Beef Burger",
+"imageUrl": "https://res.cloudinary.com/g5-mobile-track/image/upload/v1723747609/assessment/lna3djrzaqmlyoyfdeag.jpg",
+"rating": 4.9,
+"price": 12,
+"discount": 10,
+"description": "A delicious beef burger served on a toasted bun with fresh lettuce, tomato slices, and mayonnaise. Juicy grilled chicken patty seasoned to perfection for a mouthwatering taste experience.",
+"options": [
+  {
+    "id": "66be474571fccd1506882d26",
+    "name": "Add Cheese",
+    "price": 0.5
+  },
+  {
+    "id": "66be479671fccd1506882d28",
+    "name": "Add Bacon",
+    "price": 1
+  }
+]
+},
+{
+"id": "66be4df871fccd1506882d35",
+"title": "Fish Burger",
+"imageUrl": "https://res.cloudinary.com/g5-mobile-track/image/upload/v1723747748/assessment/vzrtxkreepjiwj6dlzur.jpg",
+"rating": 4.9,
+"price": 8,
+"discount": 8,
+"description": "A delicious fish burger served on a toasted bun with fresh lettuce, tomato slices, and mayonnaise. Juicy grilled chicken patty seasoned to perfection for a mouthwatering taste experience.",
+"options": []
+},
+{
+"id": "66be4e8471fccd1506882d36",
+"title": "Turkey Burger",
+"imageUrl": "https://res.cloudinary.com/g5-mobile-track/image/upload/v1723747910/assessment/ezxohc9ripinustge8so.jpg",
+"rating": 4.9,
+"price": 7.5,
+"discount": 7.5,
+"description": "A delicious turkey burger served on a toasted bun with fresh lettuce, tomato slices, and mayonnaise. Juicy grilled chicken patty seasoned to perfection for a mouthwatering taste experience.",
+"options": []
+},
+{
+"id": "66be4edb71fccd1506882d37",
+"title": "Lamb Burger",
+"imageUrl": "https://res.cloudinary.com/g5-mobile-track/image/upload/v1723748020/assessment/erenqv1v4aanobn9vrce.jpg",
+"rating": 4.2,
+"price": 8,
+"discount": 8,
+"description": "A delicious lamb burger served on a toasted bun with fresh lettuce, tomato slices, and mayonnaise. Juicy grilled chicken patty seasoned to perfection for a mouthwatering taste experience.",
+"options": [
+  {
+    "id": "66be474571fccd1506882d26",
+    "name": "Add Cheese",
+    "price": 0.5
+  },
+  {
+    "id": "66be479671fccd1506882d28",
+    "name": "Add Bacon",
+    "price": 1
+  },
+  {
+    "id": "66be47c671fccd1506882d29",
+    "name": "Add Meat",
+    "price": 0
+  }
+]
+},
+{
+"id": "66be4f2171fccd1506882d38",
+"title": "Smoked Burger",
+"imageUrl": "https://res.cloudinary.com/g5-mobile-track/image/upload/v1723748097/assessment/d1pwulpd3sepguny6rnz.jpg",
+"rating": 4.9,
+"price": 12,
+"discount": 10,
+"description": "A delicious smoked burger served on a toasted bun with fresh lettuce, tomato slices, and mayonnaise. Juicy grilled chicken patty seasoned to perfection for a mouthwatering taste experience.",
+"options": [
+  {
+    "id": "66be474571fccd1506882d26",
+    "name": "Add Cheese",
+    "price": 0.5
+  },
+  {
+    "id": "66be479671fccd1506882d28",
+    "name": "Add Bacon",
+    "price": 1
+  }
+]
+}
+  ]
+}
