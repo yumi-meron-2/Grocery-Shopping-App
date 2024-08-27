@@ -55,7 +55,10 @@ class HomePage extends StatelessWidget {
                   decoration: InputDecoration(
                     hintText: 'Search...',
                     hintStyle: TextStyle(color: Colors.grey),
-                    prefixIcon: Icon(Icons.search, color: Colors.grey),
+                    prefixIcon: Padding(
+                      padding: const EdgeInsets.all(16.0), // Adjust padding for the icon
+                      child: Icon(Icons.search, color: Colors.grey),
+                    ),
                     border: InputBorder.none, // Remove border from the TextField
                     contentPadding: EdgeInsets.symmetric(horizontal: 16.0), // Adjust padding as needed
                   ),
@@ -64,6 +67,7 @@ class HomePage extends StatelessWidget {
                   },
                 ),
               ),
+
 
               SizedBox(height: 16),
               Expanded(
