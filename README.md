@@ -29,11 +29,10 @@ The app integrates with the provided API for fetching grocery data. It includes 
 Dependency Injection: get_it for managing app dependencies.
 Network Requests: http package for handling API requests and network interactions.
 
-
-![Screenshot_20240827_184412](https://github.com/user-attachments/assets/2e9507ce-feaf-42d7-8e07-26ea036b0f83)
-![Screenshot_20240827_184341](https://github.com/user-attachments/assets/185cc408-12a9-442d-9e36-74441e1b23c4)
-![Screenshot_20240827_184833](https://github.com/user-attachments/assets/1f1f644a-9652-4dd6-81c3-11ab0dac208c)
-![Screenshot_20240827_184359](https://github.com/user-attachments/assets/e0db0857-15a0-4cbc-8542-e0822191574b)
+<img src="https://github.com/user-attachments/assets/2e9507ce-feaf-42d7-8e07-26ea036b0f83" width="300">
+<img src="https://github.com/user-attachments/assets/185cc408-12a9-442d-9e36-74441e1b23c4" width="300">
+<img src="https://github.com/user-attachments/assets/1f1f644a-9652-4dd6-81c3-11ab0dac208c" width="300">
+<img src="https://github.com/user-attachments/assets/e0db0857-15a0-4cbc-8542-e0822191574b" width="300">
 
 
 
